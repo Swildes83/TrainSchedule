@@ -1,0 +1,44 @@
+.jumbotron{
+  background-color: white;
+}
+
+#logo{
+  background-color: rgb(77, 77, 107);
+  color: white;
+  border-radius: 100px;
+  padding: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 100%;
+}
+
+th{
+  text-align: center;
+  font-weight: bold;
+
+  font-size: 15px;
+}
+
+td{
+  text-align: center;
+}
+
+.clock-display{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.panel-title{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.panel-heading{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#addTrainButton{
+    background-color: rgb(3, 185, 3);
+    color: white;
+  }
